@@ -5,3 +5,10 @@
 - 💯 My motto: `Knowledge is Power` ▶️ [Knowledge Base](https://knowledge.rootknecht.net)
 - 📫 Get in touch with me via me@mijope.de or [XING](https://www.xing.com/profile/Michael_Peter94/)
 - [Operational Status](https://allaman.github.io/status/)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allaman&langs_count=10&layout=compact&theme=tokyonight&hide_title=true&hide=css&exclude_repo=" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=allaman&count_private=true&show_icons=true&theme=tokyonight&hide_title=true" />
+</a>
