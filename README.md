@@ -10,5 +10,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allaman&langs_count=10&layout=compact&theme=tokyonight&hide_title=true&exclude_repo=" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=allaman&count_private=true&show_icons=true&theme=tokyonight&hide_rank&hide_title=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=allaman&count_private=true&show_icons=true&theme=tokyonight&hide_rank=true&hide_title=true" />
 </a>
