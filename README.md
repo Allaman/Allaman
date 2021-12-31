@@ -17,6 +17,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Moving from Linux to macOS](https://rootknecht.net/blog/moving-to-macOS/)
+- [Building my DIY NAS](https://rootknecht.net/blog/building-my-nas/)
+- [Kustomize](https://rootknecht.net/blog/kustomize/)
+- [My Workplace](https://rootknecht.net/blog/my-workplace-2021/)
+- [My Laptop Setup](https://rootknecht.net/blog/my-laptop-setup/)
 <!-- BLOG-POST-LIST:END -->
 
 Find more [here](https://rootknecht.net/blog/)
