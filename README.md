@@ -17,11 +17,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building multi arch Docker images](https://rootknecht.net/blog/multi-arch-docker/)
 - [Building your own news service with Huginn](https://rootknecht.net/blog/build-news-service/)
 - [Moving from Linux to macOS](https://rootknecht.net/blog/moving-to-macOS/)
 - [Building my DIY NAS](https://rootknecht.net/blog/building-my-nas/)
 - [An intro to Kustomize](https://rootknecht.net/blog/kustomize-intro/)
-- [My Workplace](https://rootknecht.net/blog/my-workplace-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 Find more [here](https://rootknecht.net/blog/)
