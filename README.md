@@ -17,11 +17,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Single binary web app with Gin-Gonic](https://rootknecht.net/blog/gin-gonic/)
 - [Building multi arch Docker images](https://rootknecht.net/blog/multi-arch-docker/)
 - [Building your own news service with Huginn](https://rootknecht.net/blog/build-news-service/)
 - [Moving from Linux to macOS](https://rootknecht.net/blog/moving-to-macOS/)
 - [Building my DIY NAS](https://rootknecht.net/blog/building-my-nas/)
-- [An intro to Kustomize](https://rootknecht.net/blog/kustomize-intro/)
 <!-- BLOG-POST-LIST:END -->
 
 Find more [here](https://rootknecht.net/blog/)
