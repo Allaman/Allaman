@@ -17,11 +17,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reading/storing articles with Obisidan and Remarkable2](https://rootknecht.net/blog/article-workflow/)
 - [Check the connection to Redis](https://rootknecht.net/blog/redis-con/)
 - [Pre-commit hook for YAML doc-start](https://rootknecht.net/blog/pre-commit/)
 - [Easy reverse proxy with Caddy](https://rootknecht.net/blog/caddy-proxy/)
 - [Single binary web app with Gin-Gonic](https://rootknecht.net/blog/gin-gonic/)
-- [Building multi arch Docker images](https://rootknecht.net/blog/multi-arch-docker/)
 <!-- BLOG-POST-LIST:END -->
 
 Find more [here](https://rootknecht.net/blog/)
