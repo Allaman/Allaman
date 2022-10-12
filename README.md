@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- :man_office_worker: Platform/DevOps Engineer and [entrepreneur](https://mijope.de)
+- :man_office_worker: Platform/DevOps Engineer and [Entrepreneur](https://mijope.de)
 - 🔨 Currently working on enabling development teams to deliver business value within an AWS, GCP, Terraform, Kubernetes, Quarkus, and Node.js technology stack in an agile environment
 - 💯 My motto: `Knowledge is Power` ▶️ [Knowledge Base and blog](https://rootknecht.net/)
 - [Operational Status](https://allaman.github.io/status/)
@@ -17,6 +17,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [How I handle multiple Git configurations](https://rootknecht.net/blog/handling-git-configs/)
 - [Reading/storing articles with Obisidan and Remarkable2](https://rootknecht.net/blog/article-workflow/)
 - [Check the connection to Redis](https://rootknecht.net/blog/redis-con/)
