@@ -17,11 +17,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [One year macOS &lpar;after 10 years Linux&rpar;](https://rootknecht.net/blog/one-year-mac/)
 - [List network resources of a webpage via a script](https://rootknecht.net/blog/network-resources/)
 - [How I handle multiple Git configurations](https://rootknecht.net/blog/handling-git-configs/)
 - [Reading/storing articles with Obisidan and Remarkable2](https://rootknecht.net/blog/article-workflow/)
 - [Check the connection to Redis](https://rootknecht.net/blog/redis-con/)
-- [Pre-commit hook for YAML doc-start](https://rootknecht.net/blog/pre-commit/)
 <!-- BLOG-POST-LIST:END -->
 
 Find more [here](https://rootknecht.net/blog/)
