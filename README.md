@@ -17,11 +17,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Business Logic in Nginx](https://rootknecht.net/blog/logic-in-nginx/)
 - [Hands-on Nomad](https://rootknecht.net/blog/hands-on-nomad/)
 - [Patching Binaries for NixOS](https://rootknecht.net/blog/patching-binaries-for-nixos/)
 - [NixOS as Container Host](https://rootknecht.net/blog/nixos-as-host/)
 - [My plain text accounting workflow with hledger](https://rootknecht.net/blog/accounting/)
-- [Testing this webpage &lpar;Hurl+Hugo+Docker&rpar;](https://rootknecht.net/blog/testing-homepage/)
 <!-- BLOG-POST-LIST:END -->
 
 Find more [here](https://rootknecht.net/blog/)
