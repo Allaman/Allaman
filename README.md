@@ -18,7 +18,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [How to not accidentally delete your data with rm](https://rootknecht.net/blog/rm-fails/)
 - [Business Logic in Nginx](https://rootknecht.net/blog/logic-in-nginx/)
 - [Hands-on Nomad](https://rootknecht.net/blog/hands-on-nomad/)
