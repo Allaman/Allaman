@@ -4,7 +4,7 @@
 - 🔨 Currently working on enabling development teams to deliver business value within an AWS, GCP, Terraform, Kubernetes, Quarkus, and Node.js technology stack in an agile environment
 - 💯 My motto: `Knowledge is Power` ▶️ [Knowledge Base and blog](https://rootknecht.net/)
 - [Operational Status](https://allaman.github.io/status/)
-- I am a fan of HP calculators and have a small but fine collection 
+- I am a fan of HP calculators and have a small but fine collection 🧮
 - Fun fact: I like baking my own bread 🍞
 
 ### Connect with me:
