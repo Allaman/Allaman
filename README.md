@@ -18,11 +18,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CAT S22 Flip as iPhone replacement in 2024](https://rootknecht.net/blog/cat-s22-flip/)
 - [Passwordless Azure PostgreSQL with Terraform and connection via Container App](https://rootknecht.net/blog/azure-pgsql-tf/)
 - [How to not accidentally delete your data with rm](https://rootknecht.net/blog/rm-fails/)
 - [Business Logic in Nginx](https://rootknecht.net/blog/logic-in-nginx/)
 - [Hands-on Nomad](https://rootknecht.net/blog/hands-on-nomad/)
-- [Patching Binaries for NixOS](https://rootknecht.net/blog/patching-binaries-for-nixos/)
 <!-- BLOG-POST-LIST:END -->
 
 Find more [here](https://rootknecht.net/blog/)
