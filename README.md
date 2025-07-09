@@ -10,11 +10,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Basic SNAT with nftables and iptables](https://rootknecht.net/blog/snat-nftables-iptables/)
 - [Self-Hosted Static IP Tunneling with Headscale](https://rootknecht.net/blog/headscale/)
 - [Proxy a database via SSH](https://rootknecht.net/blog/proxy-database/)
 - [Debloating my Neovim configuration](https://rootknecht.net/blog/debloating-neovim-config/)
 - [Onyx Boox Note Air 3 C vs Remarkable 2](https://rootknecht.net/blog/note-air-3-c-vs-remarkable-2/)
-- [CAT S22 Flip as iPhone replacement in 2024](https://rootknecht.net/blog/cat-s22-flip/)
 <!-- BLOG-POST-LIST:END -->
 
 Find more [here](https://rootknecht.net/blog/)
