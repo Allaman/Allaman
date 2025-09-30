@@ -10,11 +10,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Minimal Network Security Group for Azure Container App](https://rootknecht.net/blog/azure-container-app-nsg/)
 - [Single binary fileserver based on Go&#39;s &#39;embed&#39; feature](https://rootknecht.net/blog/go-fileserver/)
 - [Basic SNAT with nftables and iptables](https://rootknecht.net/blog/snat-nftables-iptables/)
 - [Self-Hosted Static IP Tunneling with Headscale](https://rootknecht.net/blog/headscale/)
 - [Proxy a database via SSH](https://rootknecht.net/blog/proxy-database/)
-- [Debloating my Neovim configuration](https://rootknecht.net/blog/debloating-neovim-config/)
 <!-- BLOG-POST-LIST:END -->
 
 Find more [here](https://rootknecht.net/blog/)
