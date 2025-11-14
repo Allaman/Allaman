@@ -10,11 +10,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [First look at Supernote private cloud setup](https://rootknecht.net/blog/supernote-private-cloud/)
 - [Two years with Kagi &lpar;search engine&rpar;](https://rootknecht.net/blog/kagi/)
 - [Minimal Network Security Group for Azure Container App](https://rootknecht.net/blog/azure-container-app-nsg/)
 - [Single binary fileserver based on Go&#39;s &#39;embed&#39; feature](https://rootknecht.net/blog/go-fileserver/)
 - [Basic SNAT with nftables and iptables](https://rootknecht.net/blog/snat-nftables-iptables/)
-- [Self-Hosted Static IP Tunneling with Headscale](https://rootknecht.net/blog/headscale/)
 <!-- BLOG-POST-LIST:END -->
 
 Find more [here](https://rootknecht.net/blog/)
