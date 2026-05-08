@@ -10,11 +10,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting up a selfhosted KOReader Sync featuring XTEINK](https://rootknecht.net/blog/kosync-selfhosted-xteink/)
 - [My self-hosted setup in 2026](https://rootknecht.net/blog/self-hosted-2026/)
 - [I Tried to Replace Obsidian — and Ended Up Appreciating It Even More](https://rootknecht.net/blog/why-i-tried-to-leave-obsidian-and-didnt/)
 - [My Reflection on Onyx Boox, Remarkable, and Supernote E-ink Note-Taking Devices](https://rootknecht.net/blog/eink-note-taking-onyx-boox-remarkable-supernote/)
 - [Restore an Azure DevOps repo with style &lpar;feat: kulala.nvim&rpar;](https://rootknecht.net/blog/restore-ado-repo-with-kulala-nvim/)
-- [First look at Supernote private cloud setup](https://rootknecht.net/blog/supernote-private-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 Find more [here](https://rootknecht.net/blog/)
